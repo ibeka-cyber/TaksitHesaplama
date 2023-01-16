@@ -1,0 +1,28 @@
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\bin\Debug\GP_AraSinav2.exe.config
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\bin\Debug\GP_AraSinav2.exe
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\bin\Debug\GP_AraSinav2.pdb
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\obj\Debug\GP_AraSinav2.csprojAssemblyReference.cache
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\obj\Debug\GP_AraSinav2.Form1.resources
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\obj\Debug\GP_AraSinav2.Properties.Resources.resources
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\obj\Debug\GP_AraSinav2.csproj.GenerateResource.cache
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\obj\Debug\GP_AraSinav2.exe
+C:\Users\İrem Bahar Koç\Source\Repos\GP_AraSinav2\obj\Debug\GP_AraSinav2.pdb
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\bin\Debug\GP_AraSinav2.exe.config
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\bin\Debug\GP_AraSinav2.exe
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\bin\Debug\GP_AraSinav2.pdb
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.csprojAssemblyReference.cache
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.Form1.resources
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.Properties.Resources.resources
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.csproj.GenerateResource.cache
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.exe
+C:\Users\İrem Bahar Koç\Desktop\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.pdb
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\bin\Debug\GP_AraSinav2.exe.config
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\bin\Debug\GP_AraSinav2.exe
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\bin\Debug\GP_AraSinav2.pdb
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.csproj.AssemblyReference.cache
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.Form1.resources
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.Properties.Resources.resources
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.csproj.GenerateResource.cache
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.csproj.CoreCompileInputs.cache
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.exe
+C:\Users\iremb\Dersler\Bilgisayar Müh.Ders Notları\GP_AraSinav2\obj\Debug\GP_AraSinav2.pdb
